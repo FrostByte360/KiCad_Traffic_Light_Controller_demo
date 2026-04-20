@@ -539,16 +539,16 @@
       },
       {
         "clearance": 0.254,
-        "diff_pair_width": 0.381,
-        "microvia_diameter": 0.762,
-        "microvia_drill": 0.508,
+        "diff_pair_width": 0.254,
+        "microvia_diameter": 0.635,
+        "microvia_drill": 0.381,
         "name": "PWR",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.508,
-        "via_diameter": 1.016,
-        "via_drill": 0.508
+        "via_diameter": 0.889,
+        "via_drill": 0.381
       }
     ],
     "meta": {
@@ -559,15 +559,11 @@
     "netclass_patterns": [
       {
         "netclass": "PWR",
-        "pattern": "/*+5V"
-      },
-      {
-        "netclass": "PWR",
         "pattern": "/*GND"
       },
       {
         "netclass": "PWR",
-        "pattern": "/*+3.3V"
+        "pattern": "/*V"
       }
     ]
   },
