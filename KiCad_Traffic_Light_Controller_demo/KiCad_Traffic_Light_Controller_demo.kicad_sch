@@ -6044,7 +6044,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 86.36 43.18 0)
 			(effects
 				(font
@@ -6121,7 +6121,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 114.3 48.26 0)
 			(effects
 				(font
@@ -6341,7 +6341,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_4x5.3"
 			(at 200.66 115.57 0)
 			(effects
 				(font
@@ -6409,7 +6409,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 38.1 36.83 0)
 			(effects
 				(font
@@ -6479,7 +6479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 38.1 105.41 0)
 			(effects
 				(font
@@ -6547,7 +6547,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:tact_switch_5mm"
 			(at 200.66 38.1 0)
 			(effects
 				(font
@@ -6615,7 +6615,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 74.93 88.9 0)
 			(effects
 				(font
@@ -6685,7 +6685,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 38.1 44.45 0)
 			(effects
 				(font
@@ -6753,7 +6753,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 128.27 36.83 0)
 			(effects
 				(font
@@ -6832,7 +6832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 38.1 49.53 0)
 			(effects
 				(font
@@ -7053,7 +7053,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 38.1 52.07 0)
 			(effects
 				(font
@@ -7121,7 +7121,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 86.36 109.22 0)
 			(effects
 				(font
@@ -7264,7 +7264,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 114.3 92.71 0)
 			(effects
 				(font
@@ -7332,7 +7332,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 86.36 33.02 0)
 			(effects
 				(font
@@ -7475,7 +7475,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 200.66 86.36 0)
 			(effects
 				(font
@@ -7610,7 +7610,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 74.93 43.18 0)
 			(effects
 				(font
@@ -7678,7 +7678,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 74.93 33.02 0)
 			(effects
 				(font
@@ -7746,7 +7746,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 74.93 109.22 0)
 			(effects
 				(font
@@ -7816,7 +7816,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:Terminal_Block_5mm"
 			(at 275.59 69.85 0)
 			(effects
 				(font
@@ -8015,7 +8015,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 38.1 92.71 0)
 			(effects
 				(font
@@ -8083,7 +8083,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 86.36 99.06 0)
 			(effects
 				(font
@@ -8161,7 +8161,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 246.38 46.99 0)
 			(effects
 				(font
@@ -8231,7 +8231,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 38.1 95.25 0)
 			(effects
 				(font
@@ -8301,7 +8301,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
 			(at 250.19 111.76 0)
 			(effects
 				(font
@@ -8365,7 +8365,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 38.1 97.79 0)
 			(effects
 				(font
@@ -8433,7 +8433,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 86.36 53.34 0)
 			(effects
 				(font
@@ -8512,7 +8512,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 38.1 39.37 0)
 			(effects
 				(font
@@ -8647,7 +8647,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical"
 			(at 165.1 101.6 0)
 			(effects
 				(font
@@ -8757,7 +8757,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TO-252-3_TabPin2"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-223"
 			(at 212.09 110.49 0)
 			(effects
 				(font
@@ -8828,7 +8828,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:slide_switch_2.54mm"
 			(at 270.51 38.1 0)
 			(effects
 				(font
@@ -8901,7 +8901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
 			(at 250.19 116.84 0)
 			(effects
 				(font
@@ -8963,7 +8963,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:slide_switch_2.54mm"
 			(at 226.06 77.47 0)
 			(effects
 				(font
@@ -9027,7 +9027,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "130R"
+		(property "Value" "47K"
 			(at 210.82 34.2899 0)
 			(effects
 				(font
@@ -9036,7 +9036,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 208.28 33.02 0)
 			(effects
 				(font
@@ -9105,7 +9105,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical"
 			(at 252.73 82.55 0)
 			(effects
 				(font
@@ -9199,7 +9199,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 38.1 46.99 0)
 			(effects
 				(font
@@ -9342,10 +9342,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "97712b9a-4d3f-4f77-9df8-bd7b5075ce81")
 		(property "Reference" "R32"
-			(at 264.16 30.4799 0)
+			(at 256.54 30.48 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -9353,8 +9352,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "130R"
-			(at 264.16 33.0199 0)
+		(property "Value" "47K"
+			(at 256.54 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9362,7 +9361,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 261.62 31.75 0)
 			(effects
 				(font
@@ -9432,7 +9431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 38.1 100.33 0)
 			(effects
 				(font
@@ -9500,7 +9499,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 74.93 53.34 0)
 			(effects
 				(font
@@ -9634,7 +9633,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 128.27 104.14 0)
 			(effects
 				(font
@@ -9759,25 +9758,24 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a4c077f9-f568-4c0b-b1e8-1a71b69732c5")
 		(property "Reference" "R29"
-			(at 215.9 38.1 90)
+			(at 215.9 45.72 90)
 			(effects
 				(font
 					(size 1.016 1.016)
 				)
 			)
 		)
-		(property "Value" "130R"
-			(at 215.9 40.64 90)
+		(property "Value" "47K"
+			(at 215.9 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 215.9 43.18 0)
 			(effects
 				(font
@@ -9847,7 +9845,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
 			(at 250.19 106.68 0)
 			(effects
 				(font
@@ -10041,7 +10039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 38.1 41.91 0)
 			(effects
 				(font
@@ -10194,7 +10192,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 74.93 99.06 0)
 			(effects
 				(font
@@ -10262,7 +10260,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 128.27 48.26 0)
 			(effects
 				(font
@@ -10565,7 +10563,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
 			(at 250.19 121.92 0)
 			(effects
 				(font
@@ -10629,7 +10627,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 226.06 46.99 0)
 			(effects
 				(font
@@ -10698,7 +10696,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical"
 			(at 165.1 45.72 0)
 			(effects
 				(font
@@ -10790,25 +10788,24 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "becba32f-9633-4b9a-b26f-82edf4d41473")
 		(property "Reference" "R28"
-			(at 212.09 77.47 90)
+			(at 212.09 85.09 90)
 			(effects
 				(font
 					(size 1.016 1.016)
 				)
 			)
 		)
-		(property "Value" "130R"
-			(at 212.09 80.01 90)
+		(property "Value" "47K"
+			(at 212.09 87.122 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 212.09 82.55 0)
 			(effects
 				(font
@@ -10876,7 +10873,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 114.3 36.83 0)
 			(effects
 				(font
@@ -10946,7 +10943,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 38.1 54.61 0)
 			(effects
 				(font
@@ -11014,7 +11011,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 86.36 88.9 0)
 			(effects
 				(font
@@ -11073,10 +11070,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d05dfd21-6ba5-4540-a6a2-b7c542c87c8a")
 		(property "Reference" "R30"
-			(at 220.98 71.1199 0)
+			(at 213.614 71.374 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -11084,8 +11080,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "130R"
-			(at 220.98 73.6599 0)
+		(property "Value" "47K"
+			(at 213.106 73.406 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11093,7 +11089,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 218.44 72.39 0)
 			(effects
 				(font
@@ -11163,7 +11159,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 38.1 110.49 0)
 			(effects
 				(font
@@ -11231,7 +11227,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 114.3 104.14 0)
 			(effects
 				(font
@@ -11281,25 +11277,24 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e9108eaa-3dfc-4a6f-ac98-2cbad9b6b84a")
 		(property "Reference" "R31"
-			(at 254 38.1 90)
+			(at 254 45.72 90)
 			(effects
 				(font
 					(size 1.016 1.016)
 				)
 			)
 		)
-		(property "Value" "130R"
-			(at 254 40.64 90)
+		(property "Value" "47K"
+			(at 254 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 254 43.18 0)
 			(effects
 				(font
@@ -11369,7 +11364,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.8"
 			(at 223.52 115.57 0)
 			(effects
 				(font
@@ -11397,10 +11392,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "32868d32-3b18-494f-80f8-6ee5d7dcee9b")
+			(uuid "32868d32-3b18-494f-80f8-6ee5d7dcee9c")
 		)
 		(pin "1"
-			(uuid "90e5b5c9-e02a-46ce-a43d-580e26da0f27")
+			(uuid "90e5b5c9-e02a-46ce-a43d-580e26da0f28")
 		)
 		(instances
 			(project ""
@@ -11439,7 +11434,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 38.1 102.87 0)
 			(effects
 				(font
@@ -11574,7 +11569,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 38.1 107.95 0)
 			(effects
 				(font
@@ -11773,7 +11768,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 128.27 92.71 0)
 			(effects
 				(font
