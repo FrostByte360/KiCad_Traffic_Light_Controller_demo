@@ -1,4 +1,4 @@
-26444017360590980
+26445801330531319
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96459,13 +96459,6 @@ rotary encoder illuminated switch vertical
 0
 9
 8
-SO9Logo
-Comp_SO9
-
-
-0
-0
-0
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -97133,6 +97126,20 @@ BoyKisser
 0
 Special_Footprints
 BoyKisser11x11mm
+
+
+0
+0
+0
+Special_Footprints
+FrostByteLogo
+
+
+0
+0
+0
+Special_Footprints
+FrostByteText
 
 
 0
